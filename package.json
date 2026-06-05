@@ -1,6 +1,6 @@
 {
   "name": "ecommerce-3d-mcp",
-  "version": "2.0.5",
+  "version": "2.1.0",
   "description": "MCP server for e-commerce 3D product visualization \u2014 model viewers, AR try-on, product configurators, Shopify/WooCommerce integration, conversion optimization, size guides",
   "type": "module",
   "main": "dist/index.js",
